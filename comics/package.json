@@ -1,0 +1,21 @@
+{
+  "name": "comics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apickli": "latest",
+    "comic-list": "1.0.0",
+    "cucumber": "5.1.0"
+  },
+  "devDependencies": {
+    "eslint": "5.15.3",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-plugin-import": "2.16.0"
+  }
+}
